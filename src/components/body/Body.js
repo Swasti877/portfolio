@@ -106,7 +106,7 @@ export default function Body() {
                     </Grid>
                     <Grid item xs={12} sm={6}>
                         <Typography variant="body2" component="div" style={{ lineHeight: "24px" }}>
-                            Hi, I'm Swasti Bhagora currently pursuing a B.E in Computer Engineering in L D College of Engineering, Ahmedabad which falls under Gujarat Technology University. Had worked with ReactJS, NodeJS. And currently learning Material-UI.
+                            Hi, I'm Swasti Bhagora currently pursuing a B.E in Computer Engineering in L D College of Engineering, Ahmedabad which falls under Gujarat Technology University. Had worked with ReactJS.
                         </Typography>
                     </Grid>
                 </Grid>
